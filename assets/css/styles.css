@@ -565,10 +565,12 @@ body.dark-theme {
 
 .swiper-button-prev {
   left: calc(50% - 3rem);
+  margin-bottom: 100px;
 }
 
 .swiper-button-next {
   right: calc(50% - 3rem);
+  margin-bottom: 100px;
 }
 
 /*=============== VALUE ===============*/
@@ -1171,7 +1173,7 @@ body.dark-theme {
   }
 
   .popular__container {
-    padding-top: 3rem;
+    padding-top: 4.5rem;
   }
   .popular__card {
     width: 320px;
