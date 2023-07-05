@@ -7,7 +7,7 @@ function scrollHeader(){
 window.addEventListener('scroll', scrollHeader)
 
 /*=============== SWIPER POPULAR ===============*/
-let swiperPopular = new Swiper(".portfolio__container", {
+let swiperPopular = new Swiper(".popular__container", {
     spaceBetween: 32,
     grabCursor: true,
     centeredSlides: true,
