@@ -252,6 +252,7 @@ body.dark-theme {
 }
 
 @media screen and (max-width: 1023px) {
+  /* rendy */
   .nav__menu {
     position: fixed;
     bottom: 2rem;
@@ -286,7 +287,26 @@ body.dark-theme {
   .nav__link span {
     display: none;
   }
+  .popular__container {
+    padding-top: 2.5rem;
+  }
+  .popular__card {
+    width: 300px;
+    padding: 0.75rem 0.75rem 2rem;
+  }
+  .popular__data {
+    padding: 0 0.25rem 0 0.75rem;
+  }
+
+  .portfolio__card {
+    width: 300px;
+    padding: 0.75rem 0.75rem 2rem;
+  }
+  .portfolio__data {
+    padding: 0 0.25rem 0 0.75rem;
+  }
 }
+
 
 /* Change background header */
 .scroll-header {
