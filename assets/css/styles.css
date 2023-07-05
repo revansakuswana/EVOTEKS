@@ -181,12 +181,11 @@ body.dark-theme {
   margin-right: 1.5rem;
 }
 .portfolio {
-  /* max-width: auto; */
-  /* margin-left: 1.5rem;
-  margin-right: 1.5rem; */
+  /* max-width: 100%; */
   background-color: black;
-  /* border-radius: 28px; */
-  /* padding-bottom: 210px; */
+  margin-top: -7.1rem;
+  /* rendy */
+  /* rendy */
 }
 
 .grid {
